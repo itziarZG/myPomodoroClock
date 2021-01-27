@@ -1,0 +1,18 @@
+#audio {
+  display: none;
+}
+.section {
+  padding: 10px;
+  background-color: rgb(81, 81, 236);
+  width: fit-content;
+  /* height: fit-content; */
+}
+.title {
+  color: lightslategray;
+}
+.minutes {
+  font-size: large;
+}
+.button {
+  background-color: green;
+}
